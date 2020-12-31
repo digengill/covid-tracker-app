@@ -1,0 +1,17 @@
+.table{
+    padding : 20px;
+    overflow: scroll;
+    height: 400px;
+}
+
+.table td {
+    padding: 0.5px;
+
+
+}
+.table tr {
+    display: flex;
+    justify-content: space-between;
+
+
+}

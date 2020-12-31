@@ -1,0 +1,18 @@
+.app__infobox {
+    flex : 1;
+}
+.app__infobox:not(:last-child)
+{
+    margin-right: 10px;
+}
+
+.infobox__cases {
+    color: #b00000;
+}
+
+.infobox__total
+{
+    padding-top: 5px;
+    font-weight: 750 !important;
+    font-size: small !important;
+}
